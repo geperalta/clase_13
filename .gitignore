@@ -1,1 +1,5 @@
 node_modules
+
+/* Esto lo cree con el comando npm init, aceptando 
+las caracteristicas del package.json y haciendo el npm install --save http
+*/
